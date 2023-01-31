@@ -2,7 +2,7 @@
   "name": "rdwnslmn-homepage",
   "version": "1.0.0",
   "description": "rdwnslmn website",
-  "homepage": "http://rdwnslmn.github.io",
+  "homepage": "http://reinzcity.github.io/rdwnslmn",
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
