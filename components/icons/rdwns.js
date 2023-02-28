@@ -3,8 +3,8 @@ const RdwnsLogo = props => {
     <svg
       width={20}
       height={20}
-      viewBox="0 0 724.04 705.11"
       fill="currentColor"
+      viewBox="0 0 724.04 705.11"
       {...props}
     >
       <path

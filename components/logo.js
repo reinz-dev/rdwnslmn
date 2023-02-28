@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { Text, useColorModeValue } from '@chakra-ui/react'
 import styled from '@emotion/styled'
-import RdwnsLogo from './icons/rdwnslogo'
+import RdwnsLogo from './icons/RdwnsLogo'
 
 const LogoBox = styled.span`
   font-weight: bold;
@@ -18,7 +18,7 @@ const LogoBox = styled.span`
   }
 
   &:hover > svg {
-    transform: rotate(20deg);
+    transform: scale(1.2);
   }
 `
 
@@ -33,7 +33,7 @@ const Logo = () => {
           fontWeight="bold"
           ml={3}
         >
-          dwnslmn
+          rdwnslmn
         </Text>
       </LogoBox>
     </Link>
